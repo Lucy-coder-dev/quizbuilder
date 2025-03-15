@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "node server.js",
+    "render-build": "npm run build && npm install express"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
