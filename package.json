@@ -25,6 +25,7 @@
   },
   "scripts": {
     "dev": "rsbuild dev --open",
+    "start": "node server.js",
     "build": "rsbuild build",
     "preview": "rsbuild preview"
   }
